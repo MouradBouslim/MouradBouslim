@@ -1,4 +1,4 @@
-<img src="./banniere.png" width="100%" alt="Bannière">
+<img src="./header-3d.svg" width="100%" alt="Bannière">
 ## Hi there 👋
 
 <!--
